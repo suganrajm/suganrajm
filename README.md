@@ -18,21 +18,10 @@
 - **Frameworks & Tools:** React, Tailwind, Node.js  
 - **Other Skills:** SEO, Canva Editing, Content Optimization  
 
----
-
-## 📊 GitHub Stats
-![Sugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuganRaj&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuganRaj&layout=compact&theme=radical)  
 
 ---
 
-## 📌 Featured Projects
-- 🎓 [CGPA Calculator](#) – A colorful, interactive calculator for college students  
-- 🌐 [Dark Mode Website](#) – Frontend project with theme toggle  
-- 🤖 [AI Tools Showcase](#) – My collection of AI apps & tools  
 
----
 
 ## 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
